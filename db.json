@@ -1,0 +1,53 @@
+{
+        "data": [{
+                "idQuery": "1",
+                "idAliance": "1",
+                "nameAliance": "TETRIS",
+                "uberCode": "AAAAAAA",
+                "names": "Yoslar",
+                "lastname": "El Argentino",
+                "typeDocument": "C",
+                "numberDocument": "20683045",
+                "email": "yoslar@avantica.net",
+                "phone": "912345678",
+                "idCountry": "264",
+                "idCategory": "2",
+                "category": "Solicitud",
+                "policy": "SI",
+                "message": "Mi solicitud está pendiente",
+                "idStaff": "2",
+                "staff": "XIOMARA",
+                "idStatus": "0",
+                "detailStatus": "PENDIENTE",
+                "dateAtention": "23/02/1988",
+                "messageAtention": "",
+                "dateRegitry": "07/10/2019  03:23:36 p.m."
+            }, {
+                "idQuery": "2",
+                "idAliance": "1",
+                "nameAliance": "TETRIS",
+                "uberCode": "AAAAAAA",
+                "names": "Yoslar",
+                "lastname": "El Argentino",
+                "typeDocument": "C",
+                "numberDocument": "20683045",
+                "email": "yoslar@avantica.net",
+                "phone": "912345678",
+                "idCountry": "264",
+                "idCategory": "2",
+                "category": "Solicitud",
+                "policy": "SI",
+                "message": "Mi solicitud está pendiente",
+                "idStaff": "2",
+                "staff": "XIOMARA",
+                "idStatus": "0",
+                "detailStatus": "PENDIENTE",
+                "dateAtention": "23/02/1988",
+                "messageAtention": "",
+                "dateRegitry": "07/10/2019  03:23:36 p.m."
+            }
+        ],
+        "status":	"OK",
+        "statusCode": "200"
+    }
+    
